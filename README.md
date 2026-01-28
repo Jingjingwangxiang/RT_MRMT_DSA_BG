@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 This code is developed to explore the microbial-catalyzed denitrification processes in a woodchip bioreactor at the Kiruna pilot site. It was developed based on the previous code RT_MRMT_DSA which can be freely downloaded from https://github.com/Jingjingwangxiang/RT_MRMT_DSA. 
 
 It was published in the Journal of Hydrology on June 2023, with a manuscript titled "Multirate mass transfer simulation of denitrification in a woodchip bioreactor", you are warmly welcome to visit it through the website https://doi.org/10.1016/j.jhydrol.2023.129863. 
