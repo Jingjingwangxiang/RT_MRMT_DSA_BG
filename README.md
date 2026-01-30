@@ -2,7 +2,13 @@
 
 Copyright (c) 2023 Jingjing Wang
 
-This project is licensed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to share and adapt this dataset, as long as you give appropriate credit and indicate if changes were made. See the LICENSE file for details.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+# RT_MRMT_DSA_BG
 
 This code is developed to explore the microbial-catalyzed denitrification processes in a woodchip bioreactor at the Kiruna pilot site. It was developed based on the previous code RT_MRMT_DSA which can be freely downloaded from https://github.com/Jingjingwangxiang/RT_MRMT_DSA. 
 
